@@ -8,3 +8,4 @@ Screen Shoot
 ![menang](https://user-images.githubusercontent.com/53558289/94773050-31a19800-03e5-11eb-894a-7f58f821f751.PNG)
 ![kalah](https://user-images.githubusercontent.com/53558289/94773076-3fefb400-03e5-11eb-9796-ab502e8cbcc1.PNG)
 
+Sekian dari saya
