@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "931161762164",
+    "firebase_url": "https://tamannasionaljawa.firebaseio.com",
+    "project_id": "tamannasionaljawa",
+    "storage_bucket": "tamannasionaljawa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931161762164:android:e9108974629af73766a421",
+        "android_client_info": {
+          "package_name": "com.example.tamannasional"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931161762164-edbrhkoui16phlitivkmrj9ltu3n4pvj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tamannasional",
+            "certificate_hash": "9dfeaecee484f1fe937a2650b23d0ca684dc534f"
+          }
+        },
+        {
+          "client_id": "931161762164-6t6fgnn6jn8l38rddm97rathg89j9rvb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3ndnvdfFiNMssRVJdX_AQ80xqIiD9AZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931161762164-6t6fgnn6jn8l38rddm97rathg89j9rvb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TamanNasional</string>
+    <string name="description">Keterangan</string>
+    <string name="title_activity_lokasi">Map</string>
+    <string name="welcome">SELAMAT DATANG \nDI APLIKASI SISTEM INFORMASI TAMAN NASIONAL DI PULAU JAWA</string>
+    <string name="search">Informasi Taman Nasional</string>
+    <string name="mulai">Mulai</string>
+    <string name="question">Apa itu taman nasional ?</string>
+    <string name="information">Tentang Aplikasi</string>
+    <string name="quiz">Kuis</string>
+    <string name="flora">Flora &amp; Fauna Khas</string>
+    <string name="menang">Selamat Anda Menang!</string>
+    <string name="hebat">Anda Hebat</string>
+    <string name="kalah">Anda Kalah!</string>
+    <string name="payah">Payah</string>
+    <string name="kosong">Data Tidak Ditemukan</string>
+    <string name="caramain">Cara Bermain</string>
+    <string name="semogamenang">Semoga berhasil !</string>
+    <string name="isicaramain">Pada permainan ini disediakan 3 nyawa yang terletak di pojok kiri anda,
+        jika anda menjawab salah nyawa akan berkurang 1 dan jika nyawa anda habis anda kalah</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

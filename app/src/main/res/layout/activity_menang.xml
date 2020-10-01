@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MenangActivity"
+    android:background="@color/colorPrimaryDark">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_menang"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppinsmedium"
+            android:gravity="center"
+            android:text="@string/menang"
+            android:textColor="@color/fontWhite"
+            android:textSize="36sp"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:id="@+id/iv_menang"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:background="@drawable/ic_bouquet"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_marginTop="20dp"
+            android:layout_below="@id/tv_menang"/>
+
+        <TextView
+            android:id="@+id/tv_hebat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppinsmedium"
+            android:gravity="center"
+            android:text="@string/hebat"
+            android:textColor="@color/fontWhite"
+            android:textSize="36sp"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/iv_menang"/>
+
+        <Button
+            android:id="@+id/btn_Kembali"
+            android:layout_width="140dp"
+            android:layout_height="match_parent"
+            android:text="Kembali"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/tv_hebat"
+            android:textSize="20sp"
+            android:fontFamily="@font/poppinsmedium"
+            android:textColor="@color/fontWhite"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"
+            android:background="@drawable/backbtn"/>
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>

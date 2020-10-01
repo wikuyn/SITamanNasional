@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".KalahActivity"
+    android:background="@color/colorPrimaryDark">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppinsmedium"
+            android:text="@string/kalah"
+            android:gravity="center"
+            android:textColor="@color/fontWhite"
+            android:textSize="36sp"
+            android:layout_marginTop="20dp"/>
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:src="@drawable/fox"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_below="@id/textView6"
+            android:layout_marginTop="20dp"
+            android:scaleType="fitXY"/>
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/poppinsmedium"
+            android:text="@string/payah"
+            android:textColor="@color/fontWhite"
+            android:gravity="center"
+            android:textSize="36sp"
+            android:layout_below="@id/imageView8"
+            android:layout_marginTop="20dp"/>
+
+        <Button
+            android:id="@+id/btn_K"
+            android:layout_width="140dp"
+            android:layout_height="wrap_content"
+            android:text="Kembali"
+            android:textSize="20sp"
+            android:textColor="@color/fontWhite"
+            android:fontFamily="@font/poppinsmedium"
+            android:layout_centerHorizontal="true"
+            android:background="@drawable/backbtn"
+            android:layout_below="@id/textView"
+            android:layout_marginTop="20dp"
+            android:layout_marginBottom="20dp"/>
+
+    </RelativeLayout>
+
+</androidx.core.widget.NestedScrollView>
