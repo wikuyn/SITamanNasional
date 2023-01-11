@@ -2,7 +2,7 @@
 
 Aplikasi sistem informasi taman nasional sederhana
 
-Screen Shoot
+Screenshoot
 
 ![menu](https://user-images.githubusercontent.com/53558289/94772849-bd66f480-03e4-11eb-9788-810ac972534a.PNG)
 ![menang](https://user-images.githubusercontent.com/53558289/94773050-31a19800-03e5-11eb-894a-7f58f821f751.PNG)
